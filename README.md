@@ -2,13 +2,17 @@
 
 Solarized is a popular color scheme. Solarized Mono modifies the Sublime Text 3 scheme so that text is rendered in just two colors: a background color and a foreground color.
 
-![](https://raw.githubusercontent.com/smk291/Solarized-Mono/master/solarizedmonolight.jpg)
+![](https://raw.githubusercontent.com/smk291/Solarized-Mono/master/solarizedmonolight.jpg | width=50)
 
-![](https://raw.githubusercontent.com/smk291/Solarized-Mono/master/solarizedmonodark.jpg)
+![](https://raw.githubusercontent.com/smk291/Solarized-Mono/master/solarizedmonodark.jpg | width=50)
 
 # Installation
 
-Clone the repository into your Sublime Text Packages folder or add the repo manually via Package Control. Donate to the guy who made the original package. Link is below.
+Clone the repository into your Sublime Text Packages folder or add the repo manually via Package Control. 
+
+## Donate
+
+Donate to the guy who made the original package. Link is below.
 
 =====
 
