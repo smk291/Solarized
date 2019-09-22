@@ -2,9 +2,9 @@
 
 Solarized Mono modifies the widely used Solarized color scheme so that source code
 
-![](https://raw.githubusercontent.com/smk291/Solarized-Mono/master/Solarized Light.jpg)
+![](https://raw.githubusercontent.com/smk291/Solarized-Mono/master/Solarized\ Light.jpg)
 
-![](https://raw.githubusercontent.com/smk291/Solarized-Mono/master/Solarized Dark.jpg)
+![](https://raw.githubusercontent.com/smk291/Solarized-Mono/master/Solarized\ Dark.jpg)
 
 =====
 
