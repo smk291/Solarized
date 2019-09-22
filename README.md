@@ -1,3 +1,13 @@
+# Solarized Mono
+
+Solarized Mono modifies the widely used Solarized color scheme so that source code
+
+![](https://raw.githubusercontent.com/smk291/Solarized-Mono/master/Solarized Light.jpg)
+
+![](https://raw.githubusercontent.com/smk291/Solarized-Mono/master/Solarized Dark.jpg)
+
+=====
+
 # Solarized
 
 Solarized is a color scheme created by [Ethan Schoonover](http://ethanschoonover.com/solarized). There are [versions](https://github.com/altercation/solarized) for pretty much every editor out there, this is the one to get for Sublime Text 3.
@@ -8,7 +18,7 @@ This color scheme is created for Sublime Text 3.
 
 To install it, use [Package Control](https://packagecontrol.io/packages/Solarized%20Color%20Scheme).
 
-![](https://raw.githubusercontent.com/braver/Solarized/master/solarized.png)
+![](https://raw.githubusercontent.com/smk291/Solarized-Mono/master/solarized.png)
 
 ## Installation
 
