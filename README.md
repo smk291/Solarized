@@ -12,7 +12,7 @@ Clone the repository into your Sublime Text Packages folder or add the repo manu
 
 Donate to the guy who made the original package. Link is below.
 
-=====
+-----
 
 # The following is the readme of the [Sublime Text 3 Solarized package](https://github.com/braver/Solarized):
 
