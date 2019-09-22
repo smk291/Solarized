@@ -8,7 +8,7 @@ Solarized is a popular color scheme. Solarized Mono modifies the Sublime Text 3 
 
 # Installation
 
-Clone the repository into your Sublime Text Packages folder or add the repo manually via Package Control.
+Clone the repository into your Sublime Text Packages folder or add the repo manually via Package Control. Donate to the guy who made the original package. Link is below.
 
 =====
 
