@@ -6,6 +6,10 @@ Solarized is a popular color scheme. Solarized Mono modifies the Sublime Text 3 
 
 ![](https://raw.githubusercontent.com/smk291/Solarized-Mono/master/solarizedmonodark.jpg)
 
+# Installation
+
+Clone the repository into your Sublime Text Packages folder or add the repo manually via Package Control.
+
 =====
 
 # The following is the readme of the [Sublime Text 3 Solarized package](https://github.com/braver/Solarized):
