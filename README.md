@@ -4,7 +4,7 @@ Solarized Mono is a modification of the popular Sublime Text 3 Solarized color s
 
 If you inspect the source files, you'll find I didn't remove any text from the Solarized scheme. I just commented out lines. Pretty basic, right? That's so that I can enable the parts of Solarized, if I decide I want to.
 
-# ...ok, why make this?
+# ...ok, why Solarized Mono?
 I made ("made") this because I'd become too reliant on my editor/IDE; I was using autocompletion, error highlighting/underlining, and syntax highlighting as crutches. Just as turning off spellcheck forces me to be better at spelling, using a theme like Solarized Mono seems to make me better -- slower, more methodical, more conscientious -- at both reading and writing code.
 
 <img src="https://raw.githubusercontent.com/smk291/Solarized-Mono/master/solarizedmonolight.jpg" width="400"> <img src="https://raw.githubusercontent.com/smk291/Solarized-Mono/master/solarizedmonodark.jpg" width="400">
