@@ -1,15 +1,17 @@
 # Solarized Mono
 
-Solarized Mono modifies the Sublime Text 3 Solarized color scheme so that text is rendered in just a single color (or two, depending on what/how you count). The background color is the background color of the corresponding Solarized theme. The for a foreground color.
+Solarized Mono is modification of the popular Sublime Text 3 Solarized color scheme. The goal is to eliminate visible syntax highlighting, so that all text renders in the same color. Solarized Mono has a dark scheme and light scheme, and the background color for each is unchanged. What has changed is the the foreground color, the color of text. When you select a Solarized Mono color scheme, you'll choose what you want your foreground color to be. The options are all colors from the default Solarized scheme.
+
+If you inspect the source files, you'll find I didn't remove any text from the Solarized scheme. I just commented out lines. Pretty basic, right? That's so that I can enable the parts of Solarized, if I decide I want to.
 
 # ...ok, why?
-I realized I'd become too reliant on my editor/IDE. Autocompletion, error highlighting/underlining, and syntax highlighting had become crutches. Just as turning off spellcheck forces me to be better at spelling, using a theme like Solarized Mono makes me better -- slower, more methodical, more accurate -- at both reading and writing code.
+I made ("made") this because I'd become too reliant on my editor/IDE; I was using autocompletion, error highlighting/underlining, and syntax highlighting as crutches. Just as turning off spellcheck forces me to be better at spelling, using a theme like Solarized Mono seems to make me better -- slower, more methodical, more conscientious -- at both reading and writing code.
 
 <img src="https://raw.githubusercontent.com/smk291/Solarized-Mono/master/solarizedmonolight.jpg" width="400"> <img src="https://raw.githubusercontent.com/smk291/Solarized-Mono/master/solarizedmonodark.jpg" width="400">
 
 # Installation
 
-Clone the repository into your Sublime Text Packages folder or add the repo manually via Package Control. 
+Clone the repository into your Sublime Text Packages folder or add the repo manually via Package Control. I'm not going to upload this to Package Control.
 
 ## Donate
 
