@@ -1,6 +1,6 @@
 # Solarized Mono
 
-Solarized Mono is a modification of the popular Sublime Text 3 Solarized color scheme. The goal is to eliminate visible syntax highlighting, so that all text renders in the same color. Solarized Mono has a dark scheme and light scheme, and the background color for each is unchanged from the default in the corresponding Solarized Dark/Light theme. What has changed is the the foreground color, the color of text. When you select a Solarized Mono color scheme, you'll choose what you want your foreground color to be. The options are all colors from the default Solarized scheme.
+Solarized Mono is a modification of the popular Sublime Text 3 Solarized color scheme. The goal is to eliminate visible syntax highlighting, so that all text renders in the same color. Solarized Mono has a dark scheme and light scheme, and the background color for each is unchanged from the default in the corresponding Solarized Dark/Light theme. What has changed is the the foreground color, the color of text. When you select a Solarized Mono color scheme, you'll choose what you want your foreground color to be. The available options include every color present in the Light/Dark Solarized scheme, just because it was easy to add all of them.
 
 If you inspect the source files, you'll find I didn't remove any text from the Solarized scheme. I just commented out lines. Pretty basic, right? That's so that I can enable the parts of Solarized, if I decide I want to.
 
